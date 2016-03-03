@@ -1,0 +1,71 @@
+dl{	
+	float:left;
+	margin:0;
+	width:280px;
+}
+
+dd {
+	display:table-cell;
+	height:24px;
+	width:200px;
+}
+
+dt {
+	display:inline;
+	float:left;
+	font-weight: bold;
+	width:80px;
+}
+
+section h3 {
+	display: table-cell;
+	width: 130px;
+	margin: 0;
+	text-align: center;
+	vertical-align: middle;
+}
+
+main {
+	width:780px;
+	padding-left:100px;
+	padding-top:20px;
+}
+
+section .project{
+	border-left: 1px solid #e0e0e0;	
+	display: table-cell;
+	font-size:12pt;
+	padding-left: 3em;
+}
+
+section .project dd{
+	width:300px;
+}
+
+section .project dl{
+	width:600px;
+}
+
+section .project dt{
+	font-weight:normal;
+	width:360px;
+}
+
+section .yume{
+	border-left: 1px solid #e0e0e0;	
+	display: table-cell;
+	font-size:12pt;
+	padding-left: 3em;
+}
+
+section .yume2{
+	display: table-cell;
+	font-size:12pt;
+}
+
+
+li {
+	width:560px;
+	height: 24px;
+}
+
