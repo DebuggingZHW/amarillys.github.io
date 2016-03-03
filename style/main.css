@@ -1,0 +1,109 @@
+﻿body {    
+    background-color:#434343;
+    font-family:cambria, consolas, tahoma;
+    margin:0px;  
+    font-size:15pt;    
+}
+
+nav {
+    background-image: url(../image/nav-bg.gif);    
+    background-origin: padding-box;
+    background-size: auto;
+}
+
+.HeaderBar {
+    background-attachment: scroll;
+    background-clip: border-box;
+    background-color: #535353;
+    background-image: url(../image/nav-bg.gif);
+    background-origin: padding-box;
+    background-size: auto;
+    border-bottom-color: #767676;
+    border-bottom-style: solid;
+    border-bottom-width: 4px;
+    margin:0px;
+    font-size:15pt;
+    height:48px;
+}
+
+.HeaderBtn {
+    background-color: #477767;
+    border: 1px solid #5d910b;
+    color: #eee;
+    float:left;
+    height:28px;
+    padding:10px;
+    text-align: center;    
+    text-shadow: silver 1px 1px 2px;
+    width:auto;
+}
+
+.MenuBtn {
+    background-color:#888;
+    border:2px;
+    border-style:solid;
+    border-color:#767676;
+    font-size:30px;
+    margin-left:15px;
+    margin-right:15px;
+    margin-top:15px;
+    margin-bottom:8px;
+    padding:10px;
+    position:relative;
+    text-align:center;
+    text-shadow: silver 1px 1px 2px;
+    width:120px;
+    height:40px;
+}
+
+a {
+    color:#eee;
+    text-decoration: none;
+}
+
+.OutMenu {
+    background-color:#888;
+    border:2px;
+    border-style:solid;
+    border-color:#767676;
+    color:#eee;
+    font-size:30px;
+    margin-left:15px;
+    margin-right:15px;
+    margin-top:15px;
+    margin-bottom:8px;
+    padding:10px;
+    position:relative;
+    text-align:center;
+    text-shadow: silver 1px 1px 2px;
+    width:120px;
+    height:40px;
+}
+
+.OnMenu {
+    background-color:#aaa;
+    border:2px;
+    border-style:solid;
+    border-color:#767676;
+    color:#0f9;
+    font-size:32px;
+    margin-left:15px;
+    margin-right:15px;
+    margin-top:15px;
+    margin-bottom:8px;
+    padding:10px;
+    position:relative;
+    text-align:center;
+    text-shadow: white 2px 2px 2px;
+    width:120px;
+    height:40px;
+}
+
+.title {
+    color:#eee;
+    padding-left:300px;
+    text-shadow: silver 1px 1px 2px;
+}
+
+main {
+}
