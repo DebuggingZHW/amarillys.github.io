@@ -1,5 +1,7 @@
-﻿body {    
-    background-color:#434343;
+﻿body {
+    background-image: url(../image/mbg.gif);    
+    background-origin: padding-box;
+    background-size: auto;
     font-family:cambria, consolas, tahoma;
     margin:0px;  
     font-size:15pt;    
@@ -28,22 +30,27 @@ nav {
 
 .HeaderBtn {
     background-color: #477767;
-    border: 1px solid #5d910b;
+    border:2px;
+    border-style:solid;
+    border-color:#767676;
     color: #eee;
     float:left;
     height:28px;
+    margin-left:15px;
     padding:10px;
+    padding-bottom:8px;
     text-align: center;    
     text-shadow: silver 1px 1px 2px;
-    width:auto;
+    width:144px;
+    
 }
 
-.MenuBtn {
+.MenuBtn ,.OutMenu {
     background-color:#888;
     border:2px;
     border-style:solid;
     border-color:#767676;
-    font-size:30px;
+    font-size:28px;
     margin-left:15px;
     margin-right:15px;
     margin-top:15px;
@@ -52,8 +59,8 @@ nav {
     position:relative;
     text-align:center;
     text-shadow: silver 1px 1px 2px;
-    width:120px;
-    height:40px;
+    width:144px;
+    height:32px;
 }
 
 a {
@@ -61,23 +68,20 @@ a {
     text-decoration: none;
 }
 
-.OutMenu {
-    background-color:#888;
-    border:2px;
-    border-style:solid;
-    border-color:#767676;
-    color:#eee;
-    font-size:30px;
-    margin-left:15px;
-    margin-right:15px;
-    margin-top:15px;
-    margin-bottom:8px;
-    padding:10px;
-    position:relative;
-    text-align:center;
-    text-shadow: silver 1px 1px 2px;
-    width:120px;
-    height:40px;
+u {    
+}
+
+div {
+  -webkit-box-shadow:0 0 15px rgba(0, 204, 204, .5);  
+  -moz-box-shadow:0 0 15px rgba(0, 204, 204, .5);  
+  box-shadow:0 0 15px rgba(0, 204, 204, .5);  
+}
+
+.essay {
+    color:#ccc;
+    top:150px;
+    left:250px;
+    position:absolute;
 }
 
 .OnMenu {
@@ -85,25 +89,37 @@ a {
     border:2px;
     border-style:solid;
     border-color:#767676;
-    color:#0f9;
-    font-size:32px;
-    margin-left:15px;
+    color:#0f0;
+    font-size:28px;
+    margin-left:18px;
     margin-right:15px;
     margin-top:15px;
-    margin-bottom:8px;
+    margin-bottom:10px;
     padding:10px;
     position:relative;
     text-align:center;
-    text-shadow: white 2px 2px 2px;
-    width:120px;
-    height:40px;
-}
-
-.title {
-    color:#eee;
-    padding-left:300px;
     text-shadow: silver 1px 1px 2px;
+    
+    width:144px;
+    height:32px;
+        
+    -webkit-box-shadow:0 0 45px rgba(0, 204, 204, .8);  
+    -moz-box-shadow:0 0 45x rgba(0, 204, 204, .8);  
+    box-shadow:0 0 45px rgba(0, 204, 204, .8);  
 }
 
-main {
+.title ,.LeftTitle {
+    color:#eee;
+    margin-left:303px;
+    text-shadow: blue 2px 2px 2px;
+    width: 400px;
+}
+
+.OnTitle {
+    color:#ccc;
+    margin-left:303px;
+    text-shadow: blue 2px 2px 3px;
+} 
+
+main {    
 }
