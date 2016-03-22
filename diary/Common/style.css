@@ -1,0 +1,48 @@
+body{
+margin:auto;
+}
+
+h1,h2{
+padding:1em;
+font-family:Tahoma;
+color:#80ff10;
+text-align:center;}
+
+h3{
+font-family:Microsoft Yahei,Tahoma;
+color:#f0ff10;
+text-align:right;}
+
+p{
+padding-left:96px;
+padding-right:96px;
+font-family:Noto Sans CJK JP,Microsoft Yahei;
+color:#f0ff10;
+text-align:left;
+font-size:18px;
+text-indent:2em;}
+
+.ImgClass{
+text-align:center;
+font-family:Noto Sans CJK JP,Microsoft Yahei;
+color:#f0ff10;
+font-size:20px;}
+
+.ImgDescr{
+margin-top:10px;
+text-align:center;
+font-family:Noto Sans CJK JP,Microsoft Yahei,;
+color:#f0ff10;
+font-size:20px;}
+
+a{
+color:#bbbbbb;
+}
+
+.end{
+margin-top:10px;
+text-align:center;
+font-family:Noto Sans CJK JP;
+color:#f0ff10;
+font-size:30px;
+}
