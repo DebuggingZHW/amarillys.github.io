@@ -1,0 +1,33 @@
+body {
+  background:#040;
+  color:#abc;
+  text-shadow: silver 1px 1px 2px;
+}
+
+.essay {
+    background-image:url('map.png');
+    color:#111;
+    font-size:16pt;
+    text-indent:2em;
+    top:5%;
+    left:8%;
+	height:auto;
+    position:relative;
+    width:640px;
+}
+
+.part {	
+	display:inline;
+	font-size:20pt;
+}
+
+dt {
+	display:inline;
+	float:left;
+	font-weight: bold;
+}
+
+h2 {
+	display:inline;
+	float:left;
+}
