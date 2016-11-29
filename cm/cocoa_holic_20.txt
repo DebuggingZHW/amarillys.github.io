@@ -1,0 +1,44 @@
+<html>
+<head>
+	<title>[ココアホリック (ユイザキカズヤ)] くぱぁほりっく!</title>
+	<meta charset="UTF-8">
+</head>
+<body>
+	<h1>[ココアホリック (ユイザキカズヤ)] くぱぁほりっく!</h1>
+	<img src="http://ohe1slwq6.bkt.clouddn.com/cocoa_holic_20_001.jpg">
+	<br><br>
+	<img src="http://ohe1slwq6.bkt.clouddn.com/cocoa_holic_20_002.jpg">
+	<br><br>
+	<img src="http://ohe1slwq6.bkt.clouddn.com/cocoa_holic_20_003.jpg">
+	<br><br>
+	<img src="http://ohe1slwq6.bkt.clouddn.com/cocoa_holic_20_004.jpg">
+	<br><br>
+	<img src="http://ohe1slwq6.bkt.clouddn.com/cocoa_holic_20_005.jpg">
+	<br><br>
+	<img src="http://ohe1slwq6.bkt.clouddn.com/cocoa_holic_20_006.jpg">
+	<br><br>
+	<img src="http://ohe1slwq6.bkt.clouddn.com/cocoa_holic_20_007.jpg">
+	<br><br>
+	<img src="http://ohe1slwq6.bkt.clouddn.com/cocoa_holic_20_008.jpg">
+	<br><br>
+	<img src="http://ohe1slwq6.bkt.clouddn.com/cocoa_holic_20_009.jpg">
+	<br><br>
+	<img src="http://ohe1slwq6.bkt.clouddn.com/cocoa_holic_20_010.jpg">
+	<br><br>
+	<img src="http://ohe1slwq6.bkt.clouddn.com/cocoa_holic_20_011.jpg">
+	<br><br>
+	<img src="http://ohe1slwq6.bkt.clouddn.com/cocoa_holic_20_012.jpg">
+	<br><br>
+	<img src="http://ohe1slwq6.bkt.clouddn.com/cocoa_holic_20_013.jpg">
+	<br><br>
+	<img src="http://ohe1slwq6.bkt.clouddn.com/cocoa_holic_20_014.jpg">
+	<br><br>
+	<img src="http://ohe1slwq6.bkt.clouddn.com/cocoa_holic_20_015.jpg">
+	<br><br>
+	<img src="http://ohe1slwq6.bkt.clouddn.com/cocoa_holic_20_016.jpg">
+	<br><br>
+	<img src="http://ohe1slwq6.bkt.clouddn.com/cocoa_holic_20_017.jpg">
+	<br><br>
+	<img src="http://ohe1slwq6.bkt.clouddn.com/cocoa_holic_20_018.jpg">
+</body>
+</html>
